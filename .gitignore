@@ -1,5 +1,11 @@
 __pycache__
 .idea
 .idea/*
+venv
+env
+.pytest_cache
+.coverage
 
-Thumbs_db
+# comprehensive .gitignore found at: 
+# https://github.com/github/gitignore/blob/master/Python.gitignore
+
